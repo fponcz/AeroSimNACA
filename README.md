@@ -6,6 +6,8 @@ This project was created as an **educational and visual approximation** of airfl
 
 ## Preview
 
+![Simulation 1](ScreenshotAeroSim1.PNG)
+
 This application renders a 2D smoke field flowing around a selected NACA airfoil profile. You can change the airfoil, adjust the angle of attack, modify the inlet speed, and observe how the smoke pattern changes in real time.
 
 ## Features
